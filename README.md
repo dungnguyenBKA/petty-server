@@ -1,4 +1,4 @@
-# nodejs-mi-base
+# nodejs-petty
 
 ## Prequitesite
 
